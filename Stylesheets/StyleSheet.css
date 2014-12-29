@@ -1,0 +1,49 @@
+﻿body 
+{
+     background-color: #2D3956;
+     font-family: sans-serif;
+}
+
+div.outer
+{
+    background-color:#E7E7E7;
+    width: 900px;
+    padding-top:10px;
+    margin-left:auto ;
+    margin-right:auto;
+   
+}
+
+div.inner 
+{
+    width:840px;
+    text-align:left;
+     margin-left:auto;
+    margin-right:auto;
+}
+
+    div.slideshow 
+    {
+        border: inset;
+        border-color: #2D3956;
+        text-align: center;
+        width: 680px;
+        margin-left:auto ;
+        margin-right:auto;
+    }
+
+    div.Autotable
+    { 
+        border: double;
+        text-align: center;
+        width: auto;
+        padding-top:10px;
+        margin-left:auto ;
+        margin-right:auto;
+    }
+
+
+div.footer
+{text-align : center;
+ font-size: 13px;
+}
