@@ -4,7 +4,8 @@ ADV_Auto
 These webpages demonstrates the use of master pages and ajax in ASP.NET generating a slideshow on the homepage.
 
 USES
--The master page can be and should be used for theming the web page especially when there are multiple ones in order to assure that the format is standardized.
+-The master page can be and should be used for theming the web page especially when there are multiple ones in order to assure   that the format is standardized.
+
 -The slide show, as can be seen in many websites today, is usually for homepage uses
 
 
